@@ -1,2 +1,3 @@
 # Repomon
 First repository let's try....
+This is, for the moment, simply a test of using github.
